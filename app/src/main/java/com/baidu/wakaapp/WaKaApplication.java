@@ -1,0 +1,1 @@
+/* * Copyright (c) 2018. puchunjie */package com.baidu.wakaapp;import android.app.Application;/** * 启动Application */public class WaKaApplication extends Application {    @Override    public void onCreate() {        super.onCreate();    }}

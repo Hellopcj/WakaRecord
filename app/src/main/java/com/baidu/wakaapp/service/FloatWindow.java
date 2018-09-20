@@ -1,0 +1,1 @@
+/* * Copyright (c) 2018. puchunjie */package com.baidu.wakaapp.service;/** * 工具栏浮窗 */public class FloatWindow {}

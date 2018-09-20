@@ -1,0 +1,1 @@
+/* * Copyright (c) 2018. puchunjie */package com.baidu.wakaapp.service;import android.app.Service;/** * 浮窗Camare */public class FloatWindoeCamare {}
