@@ -1,1 +1,1 @@
-<resources>    <string name="app_name">哇咔录屏</string></resources>
+<resources>    <string name="app_name">哇咔录屏</string>    <string name="tv_landscape">横屏录制</string>    <string name="tv_portrait">竖屏录制</string>    <string name="tv_my">我的</string>    <string name="tv_helpe">帮助</string>    <string name="tv_custom_service">客服</string></resources>
