@@ -1,0 +1,1 @@
+package com.baidu.wakaapp;import android.support.v7.app.AppCompatActivity;import android.os.Bundle;public class WakaMainActivity extends AppCompatActivity {    @Override    protected void onCreate(Bundle savedInstanceState) {        super.onCreate(savedInstanceState);        setContentView(R.layout.activity_waka_main);    }}
