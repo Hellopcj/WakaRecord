@@ -1,1 +1,1 @@
-/* * Copyright (c) 2018. puchunjie */package com.baidu.wakaapp.service;/** * 工具栏浮窗 */public class FloatWindow {}
+/* * Copyright (c) 2018. puchunjie */package com.baidu.wakaapp.service;import android.app.Service;import android.content.Intent;import android.os.IBinder;import android.support.annotation.Nullable;/** * 浮窗service */public class FloatWindow extends Service {    private static final String TAG = FloatWindow.class.getSimpleName();    @Nullable    @Override    public IBinder onBind(Intent intent) {        return null;    }}
