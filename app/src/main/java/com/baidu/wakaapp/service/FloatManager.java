@@ -1,0 +1,1 @@
+package com.baidu.wakaapp.service;/** * 浮窗控制类 */public class FloatManager {}
